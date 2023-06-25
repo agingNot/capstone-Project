@@ -35,7 +35,7 @@ Kindly find the dataset for this challenge [here](https://zindi.africa/competiti
 ## Summary
 | Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
-| Capstone Project |Customer Churn Prediction Challenge|  | |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)|  |
+| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  | |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)|  |
 
 ## Screenshot of App Interface
 
