@@ -35,7 +35,7 @@ Kindly find the dataset for this challenge [here](https://zindi.africa/competiti
 ## Summary
 | Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
-| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  | |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
 
 ## Screenshot of App Interface
 
