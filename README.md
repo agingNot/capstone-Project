@@ -25,6 +25,20 @@ The objective of this challenge is to develop a machine learning model to predic
 * Deploy Application in Hugging Face
 
 ### Evaluation 
-The evaluation metric for this challenge is [Area Under the Curve (AUC)](https://zindi.africa/learn/zindi-error-metric-series-how-to-use-area-under-curve-auc-as-an-evaluation-metric-for-machine-learning/)
-The values representing Churn are 0 and 1. Where 1 indicates the customer churned and 0 indicates the customer stayed with telcom company.
+The evaluation metric for this challenge is [Area Under the Curve (AUC)](https://zindi.africa/learn/zindi-error-metric-series-how-to-use-area-under-curve-auc-as-an-evaluation-metric-for-machine-learning/).
 
+The values representing Churn are 0 and 1. Where 1 indicates the customer churned and 0 indicates the customer stayed with the telecom company.
+
+### Dataset
+Kindly find the dataset for this challenge [here](https://zindi.africa/competitions/customer-churn-prediction-challenge-for-azubian/data/)
+
+## Summary
+| Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
+|-----------|-------------|-------------:|-------------:|-------------|-------------|
+| Capstone Project |Customer Churn Prediction Challenge|  | |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)|  |
+
+## Screenshot of App Interface
+
+
+
+## Conclusion
