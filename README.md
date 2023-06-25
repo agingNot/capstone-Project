@@ -41,4 +41,9 @@ Kindly find the dataset for this challenge [here](https://zindi.africa/competiti
 
 
 
-## Conclusion
+## Author
+- Queensly K. Acheampongmaa 
+
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/queensly-kyerewaa-acheampongmaa)
+  [![Hugging Face Spaces](https://img.shields.io/badge/Hugging-Face-yellow)](https://huggingface.co/Queensly)
