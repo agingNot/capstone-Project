@@ -5,7 +5,8 @@
 This is a Zindi challenge organized by Azubi Africa as a Capstone Project. Details of the project can be found [here](https://zindi.africa/competitions/customer-churn-prediction-challenge-for-azubian/)
 
 ### What is Customer Churn?
-It is the process of using data analysis and predictive modeling techniques to identify customers who are likely to stop using a product or service. Churn, in this context, refers to customer attrition or the loss of customers from this African Telecommunications Company.
+Churn analysis involves employing data analysis and predictive modeling methods to pinpoint customers who are inclined to discontinue their usage of a product or service. In this particular case, churn refers to customer attrition or the departure of customers from an African Telecommunications Company.
+
 
 ### Project Description
 This challenge is for an African telecommunications company that provides customers with airtime and mobile data bundles. 
@@ -35,15 +36,15 @@ Kindly find the dataset for this challenge [here](https://zindi.africa/competiti
 ## Summary
 | Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
-| Capstone Project |Customer Churn Prediction Challenge| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+
 
 ## Screenshot of App Interface
 
 
 
 ## Author
-- Queensly K. Acheampongmaa 
+-Tikue Zeleke
 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/queensly-kyerewaa-acheampongmaa)
-  [![Hugging Face Spaces](https://img.shields.io/badge/Hugging-Face-yellow)](https://huggingface.co/Queensly)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](linkedin.com/in/tikue-zeleke-a6863810b)
+  [![Hugging Face Spaces](https://img.shields.io/badge/Hugging-Face-yellow)](https://huggingface.co/TruelyEpic)
